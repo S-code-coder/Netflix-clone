@@ -15,13 +15,13 @@ The following **required** functionality is complete:
 
 The following **additional** features are implemented:
 
-- [ ] I can add a section that allows user login and subscription,implementing payment gateways.
+- [x] I can add a section that allows user login and subscription,implementing payment gateways.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://assets.materialup.com/uploads/0ba27ff2-7343-407a-86df-715c54851358/preview.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://assets.materialup.com/uploads/0ba27ff2-7343-407a-86df-715c54851358/preview.gif' title='Video Walkthrough' width='500px' alt='Video Walkthrough' />
 
 ## Notes
 
